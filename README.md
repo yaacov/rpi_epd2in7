@@ -1,4 +1,5 @@
 # rpi_epd2in7
+<img align="right" src="https://raw.githubusercontent.com/elad661/rpi_epd2in7/master/rpi_epd.gif" alt="an animation showing rpi_epd2in7 in action">
 
 A python library for interfacing with the "[Waveshare 2.7inch e-Paper HAT](https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT)" display from the Raspberry Pi.
 
@@ -8,8 +9,6 @@ Note that Waveshare has a lot of different models of e-paper displays, and this 
 
 This MIT-licensed library comes with absolutely no warranty and no gurantees.
 Bugs or improper usage might mess up your display or even brick it entirely.
-
-![an animation showing the library in action](https://raw.githubusercontent.com/elad661/rpi_epd2in7/master/rpi_epd.gif)
 
 ## Changes comparing to the original library
 * Cleaner, more pythonic code
